@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "HNGTask1.Controllers.RequestController",
+    "Method": "Greeter",
+    "RelativePath": "Request/hello",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nameOfVisitor",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
