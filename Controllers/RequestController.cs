@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 namespace HNGTask1.Controllers
 {
 	[ApiController]
-	[Route("[controller]")]
+	[Route("api")]
 	public class RequestController : ControllerBase
 	{
 		private readonly GreetingService _greetingService;
@@ -17,9 +17,9 @@ namespace HNGTask1.Controllers
 		}
 
 		[HttpGet("hello")]
-		public async Task<ActionResult> Greeter([FromQuery] string nameOfVisitor, CancellationToken token)
+		public async Task<ActionResult> Greeter([FromQuery] string visitor_name, CancellationToken token)
 		{
-			var greeting = await _greetingService.Greet(HttpContext, nameOfVisitor, token);
+			var greeting = await _greetingService.Greet(HttpContext, visitor_name, token);
 			return Ok(greeting);
 		}
 	}

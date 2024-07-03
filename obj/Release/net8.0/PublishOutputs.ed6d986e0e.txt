@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Desktop\Projects\C#ApplicationProjects\HNGTask1\obj\Release\net8.0\PubTmp\Out\HNGTask1.exe
+C:\Users\ADMIN\Desktop\Projects\C#ApplicationProjects\HNGTask1\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\ADMIN\Desktop\Projects\C#ApplicationProjects\HNGTask1\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\ADMIN\Desktop\Projects\C#ApplicationProjects\HNGTask1\obj\Release\net8.0\PubTmp\Out\HNGTask1.dll
+C:\Users\ADMIN\Desktop\Projects\C#ApplicationProjects\HNGTask1\obj\Release\net8.0\PubTmp\Out\HNGTask1.deps.json
+C:\Users\ADMIN\Desktop\Projects\C#ApplicationProjects\HNGTask1\obj\Release\net8.0\PubTmp\Out\HNGTask1.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Projects\C#ApplicationProjects\HNGTask1\obj\Release\net8.0\PubTmp\Out\HNGTask1.pdb
+C:\Users\ADMIN\Desktop\Projects\C#ApplicationProjects\HNGTask1\obj\Release\net8.0\PubTmp\Out\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\ADMIN\Desktop\Projects\C#ApplicationProjects\HNGTask1\obj\Release\net8.0\PubTmp\Out\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\ADMIN\Desktop\Projects\C#ApplicationProjects\HNGTask1\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\ADMIN\Desktop\Projects\C#ApplicationProjects\HNGTask1\obj\Release\net8.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\ADMIN\Desktop\Projects\C#ApplicationProjects\HNGTask1\obj\Release\net8.0\PubTmp\Out\Newtonsoft.Json.Bson.dll
+C:\Users\ADMIN\Desktop\Projects\C#ApplicationProjects\HNGTask1\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ADMIN\Desktop\Projects\C#ApplicationProjects\HNGTask1\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ADMIN\Desktop\Projects\C#ApplicationProjects\HNGTask1\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

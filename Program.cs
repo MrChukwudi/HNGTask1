@@ -27,8 +27,8 @@ namespace HNGTask1
 
 			var app = builder.Build();
 
-			if (app.Environment.IsDevelopment())
-			{
+			//if(app.Environment.IsDevelopment())
+			//{
 				// Enable middleware to serve generated Swagger as a JSON endpoint.
 				app.UseSwagger();
 
@@ -37,8 +37,10 @@ namespace HNGTask1
 				app.UseSwaggerUI(c =>
 				{
 					c.SwaggerEndpoint("/swagger/v1/swagger.json", "HNG Task API V1");
+					c.RoutePrefix = String.Empty;
 				});
-			}
+			//}
+			
 
 			// Configure the HTTP request pipeline.
 			app.UseHttpsRedirection();
